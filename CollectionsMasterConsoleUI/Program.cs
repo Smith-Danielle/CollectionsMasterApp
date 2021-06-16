@@ -13,7 +13,7 @@ namespace CollectionsMasterConsoleUI
 
             #region Arrays
             // Create an integer Array of size 50 - Complete
-            /*int[] fifty = new int[50];
+            int[] fifty = new int[50];
 
 
             //Create a method to populate the number array with 50 random numbers that are between 0 and 50 - Complete
@@ -38,7 +38,7 @@ namespace CollectionsMasterConsoleUI
             //Reverse the contents of the array and then print the array out to the console. - Complete
             //Try for 2 different ways
             /*     Hint: Array._____(); Create a custom method     */
-            /*Console.WriteLine("All Numbers Reversed:");
+            Console.WriteLine("All Numbers Reversed:");
             ReverseArray(fifty);
             Console.WriteLine("---------REVERSE CUSTOM------------");
             ReverseArrayTwo(fifty);
@@ -54,9 +54,9 @@ namespace CollectionsMasterConsoleUI
 
             //Sort the array in order now - Complete
             /*      Hint: Array.____()      */
-            /*Console.WriteLine("Sorted numbers:");
+            Console.WriteLine("Sorted numbers:");
             SortingArray(fifty);
-            Console.WriteLine("\n************End Arrays*************** \n");*/
+            Console.WriteLine("\n************End Arrays*************** \n");
             #endregion
 
             #region Lists
